@@ -102,12 +102,7 @@ site that is served on port `8080` in addition to port `80`:
           iis_bindings:
             - port: 8080
 
-License
--------
 
-BSD
 
-Author Information
-------------------
+-
 
-Chris Church <chris@ninemoreminutes.com>
